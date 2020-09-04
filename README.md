@@ -1,6 +1,6 @@
-<h1 align="center">Prashant Barahi <code>@realpacific</code></h1>
+<h1 align="center">Prashant Barahi</h1>
+<h3 align="center"><code>@realpacific</code></h3>
 <h3 align="center">Nepal</h3>
-
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android"
         width="40" height="40" />
