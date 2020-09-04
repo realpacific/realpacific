@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-    <a href="https://linkedin.com/in/linkedin" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/prashant-barahi-b83438139" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="30" /></a>
     <a href="https://medium.com/@prashantbarahi" target="blank"><img align="center"
