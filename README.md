@@ -22,3 +22,11 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@medium" height="30"
             width="30" /></a>
 </p>
+
+<p align="center">
+  <h5>I write at:</h5>
+  <ul>
+  <li><a href="https://www.raywenderlich.com/u/realpac">raywenderlich.com</a></li>
+  <li><a href="https://medium.com/@prashantbarahi">Medium</a></li>
+  <ul>
+</p>
