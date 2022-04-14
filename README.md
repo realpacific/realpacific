@@ -1,6 +1,7 @@
 <h1 align="center">Prashant Barahi</h1>
-<h3 align="center"><code>@realpacific</code></h3>
-<h3 align="center">Nepal</h3>
+<h4 align="center">@realpacific</h4>
+<h5 align="center">Nepal</h5>
+
 <p align="left">
 
 <h4 align="left">Languages and Tools:</h4>
@@ -95,6 +96,7 @@
 <p align="center">
 <h4 align="center">I write at:</h4>
 <p align="center">
+    <a href="https://prashantbarahi.com.np">prashantbarahi.com.np</a> |
     <a href="https://www.raywenderlich.com/u/realpac">raywenderlich.com</a> |
     <a href="https://medium.com/@prashantbarahi">Medium</a>
 <p>
