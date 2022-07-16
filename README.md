@@ -104,12 +104,13 @@
 
 
 <p align="center">
-<h4 align="center">I write at:</h4>
+
 <p align="center">
+    <strong>:pen: I write at:</strong>
     <a href="https://prashantbarahi.com.np">prashantbarahi.com.np</a> |
     <a href="https://www.raywenderlich.com/u/realpac">raywenderlich.com</a> |
     <a href="https://medium.com/@prashantbarahi">Medium</a>
 <p>
 <p align="center">
-    Check out my <a href="https://prashantbarahi.com.np/knowledge-graph" target="blank">Knowledge Graph</a>!</p>
+   :brain: Check out my <a href="https://prashantbarahi.com.np/knowledge-graph" target="blank">Knowledge Graph</a>!</p>
 </p>
