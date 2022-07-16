@@ -1,10 +1,10 @@
 <h1 align="center">Prashant Barahi</h1>
-<h4 align="center">@realpacific</h4>
-<h5 align="center">Nepal</h5>
+<p align="center"><strong><span>@realpacific</span></strong></p>
+<p align="center"><strong><span align="center">Nepal</span></strong></p>
 
 <p align="left">
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">A Highly <em>Inexhaustible</em> List of Things I Have Worked With</h4>
 
 <p align="center">
     <a href="https://developer.android.com" target="_blank">
@@ -92,6 +92,7 @@
              alt="@medium" height="30"
              width="30"/></a>
 </p>
+
 
 <p align="center">
 <h4 align="center">I write at:</h4>
