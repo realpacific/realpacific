@@ -4,7 +4,7 @@
 
 <hr />
 
-<h4 align="left">A <em>Highly</em> Inexhaustible List of Things I Have Worked With</h4>
+<h4 align="left">A <em>Highly</em> Inexhaustive List of Things I Have Worked With</h4>
 
 <p align="center">
     <a href="#" target="_blank">
