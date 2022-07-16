@@ -2,9 +2,7 @@
 <p align="center"><strong><span>@realpacific</span></strong></p>
 <p align="center"><strong><span align="center">Nepal</span></strong></p>
 
-<hr />
-
-<h4 align="left">:tool A <em>Highly</em> Inexhaustible List of Things I Have Worked With</h4>
+<h4 align="left"><em>Highly</em> Inexhaustible List of Things I Have Worked With</h4>
 
 <p align="center">
     <a target="_blank">
