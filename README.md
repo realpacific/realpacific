@@ -4,7 +4,7 @@
 
 <hr />
 
-<h4 align="left">A <em>Highly</em> Inexhaustible List of Things I Have Worked With</h4>
+<h4 align="left">:tool A <em>Highly</em> Inexhaustible List of Things I Have Worked With</h4>
 
 <p align="center">
     <a target="_blank">
@@ -95,10 +95,10 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/prashant-barahi-b83438139" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"
+        <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin"
             height="30" width="30" /></a>
     <a href="https://medium.com/@prashantbarahi" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@medium"
+        <img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@medium"
             height="30" width="30" /></a>
 </p>
 
