@@ -111,5 +111,5 @@
     <a href="https://medium.com/@prashantbarahi">Medium</a>
 <p>
 <p align="center">
-   🧠 Check out my <a href="https://prashantbarahi.com.np/knowledge-graph" target="blank">Knowledge Graph</a>!</p>
+   🧠 Check out my <a href="https://prashantbarahi.com.np/knowledge-graph" target="blank">Knowledge Graph</a> and <a href="https://prashantbarahi.com.np/read-in-public" target="blank">Read In Public</a>!</p>
 </p>
