@@ -1,9 +1,10 @@
 <h1 align="center">Prashant Barahi</h1>
-<p align="center"><strong><span>@realpacific</span></strong></p>
-<p align="center"><strong><span align="center">Nepal</span></strong></p>
+<p align="center">
+    <strong><span>@realpacific</span></strong><br/>
+    <strong><span>Nepal</span></strong>
+</p>
 
-<hr />
-
+<br/>
 <h4 align="left">A <em>Highly</em> Inexhaustive List of Things I Have Worked With</h4>
 
 <p align="center">
