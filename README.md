@@ -1,10 +1,18 @@
 <h1 align="center">Prashant Barahi</h1>
 <p align="center">
     <strong><span>@realpacific</span></strong><br/>
-    <strong><span>Nepal</span></strong>
+    <span>Nepal</span>
 </p>
 
-<br/>
+<p align="center">
+    <a href="https://www.linkedin.com/in/prashant-barahi-b83438139" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"
+            height="30" width="30" /></a>
+    <a href="https://medium.com/@prashantbarahi" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@medium"
+            height="30" width="30" /></a>
+</p>
+
 <h4 align="center">A <em>Highly</em> Inexhaustive List of Things I Have Worked With</h4>
 
 <p align="center">
@@ -89,22 +97,8 @@
 
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realpacific&layout=compact&theme=tokyonight"
-        alt="My Languages Stats" />
-</p>
+<br/>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/prashant-barahi-b83438139" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin"
-            height="30" width="30" /></a>
-    <a href="https://medium.com/@prashantbarahi" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@medium"
-            height="30" width="30" /></a>
-</p>
-
-
-<p align="center">
 <p align="center">
     <strong>:pen: I write at:</strong>
     <a href="https://prashantbarahi.com.np">prashantbarahi.com.np</a> |
@@ -112,5 +106,6 @@
     <a href="https://medium.com/@prashantbarahi">Medium</a>
 <p>
 <p align="center">
-   🧠 Check out my <a href="https://prashantbarahi.com.np/knowledge-graph" target="blank">Knowledge Graph</a> and <a href="https://prashantbarahi.com.np/read-in-public" target="blank">Read In Public</a>!</p>
+   🧠 Check out my <a href="https://prashantbarahi.com.np/knowledge-graph" target="blank">Knowledge Graph</a> and <a href="https://prashantbarahi.com.np/read-in-public" target="blank">Read In Public</a>!
 </p>
+
