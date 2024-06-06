@@ -6,7 +6,12 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/prashant-barahi-b83438139" target="blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  align="center" alt="linkedin" height="30" width="30" /></a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  align="center" alt="linkedin" height="30" width="30" ></img>
+    </a>
+    <a href="https://prashantbarahi.com.np" target="blank">
+        <img src="logo.ico"  align="center" alt="website" height="30" width="30" />
+    </a>
+
 </p>
 
 <h4 align="center">A <i>Highly</i> Inexhaustive List of Things I Have Worked With</h4>
