@@ -13,7 +13,7 @@
             height="30" width="30" /></a>
 </p>
 
-<h4 align="center">A <em>Highly</em> Inexhaustive List of Things I Have Worked With</h4>
+<h4 align="center">A <i>Highly</i> Inexhaustive List of Things I Have Worked With</h4>
 
 <p align="center">
     <a href="#" target="_blank">
@@ -33,6 +33,8 @@
             alt="typescript" width="40" height="40" /> </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40" />
     </a>
 </p>
 
@@ -79,23 +81,13 @@
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
             height="40" /> </a>
     <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" /> </a>
-    <a href="#" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
     <a href="#" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="40" />
     </a>
 
 </p>
-<p align="center">
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-ar21.svg" alt="docusaurus" width="70"
-            height="40" /></a>
 
-</p>
 
 <br/>
 
