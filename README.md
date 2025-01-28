@@ -37,6 +37,9 @@
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40" />
     </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40" />
+    </a>
 </p>
 
 <p align="center">
@@ -63,9 +66,8 @@
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
     </a>
     <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="docusaurus" width="70"
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="70"
             height="40" /></a>
-
 </p>
 
 <p align="center">
@@ -83,7 +85,9 @@
     <a href="#" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="40" />
     </a>
-
+    <a href="#" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="70" height="40" />
+    </a>
 </p>
 
 
