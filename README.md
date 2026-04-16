@@ -34,6 +34,7 @@
             alt="typescript" width="30" height="30" /> </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30" />
+    </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="30" height="30" />
     </a>
@@ -98,8 +99,8 @@
     <a href="https://prashantbarahi.com.np">prashantbarahi.com.np</a> |
     <a href="https://www.raywenderlich.com/u/realpac">raywenderlich.com</a> |
     <a href="https://medium.com/@prashantbarahi">Medium</a>
-<p>
+</p>
 <p align="center">
-   🧠 Check out my <a href="https://prashantbarahi.com.np/knowledge-graph" target="blank">Knowledge Graph</a> and <a href="https://prashantbarahi.com.np/read-in-public" target="blank">Read In Public</a>!
+   🧠 Check out my <a href="https://prashantbarahi.com.np/knowledge-graph" target="_blank">Knowledge Graph</a> and <a href="https://prashantbarahi.com.np/read-in-public" target="_blank">Read In Public</a>!
 </p>
 
