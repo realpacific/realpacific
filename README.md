@@ -19,74 +19,74 @@
 <p align="center">
     <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a>
+            width="30" height="30" /> </a>
     <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
+            alt="javascript" width="30" height="30" /> </a>
     <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40"
-            height="40" /> </a>
+        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30"
+            height="30" /> </a>
     <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
+            alt="python" width="30" height="30" /> </a>
     <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a>
+            alt="typescript" width="30" height="30" /> </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30" />
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="30" height="30" />
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="30" height="30" />
     </a>
 </p>
 
 <p align="center">
     <a href="#" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="70"
-            height="40" /></a>
+            height="30" /></a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
-            alt="nodejs" width="70" height="40" /> </a>
+            alt="nodejs" width="70" height="30" /> </a>
 </p>
 
 <p align="center">
     <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" />
+            alt="android" width="30" height="30" />
     </a>
     <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
-            height="40" /></a>
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30"
+            height="30" /></a>
     <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
+            alt="html5" width="30" height="30" /> </a>
     <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30" />
     </a>
     <a href="#" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="70"
-            height="40" /></a>
+            height="30" /></a>
 </p>
 
 <p align="center">
     <a href="#" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a>
+            alt="docker" width="30" height="30" /> </a>
     <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-            height="40" /></a>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30"
+            height="30" /></a>
     <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-            height="40" /> </a>
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30"
+            height="30" /> </a>
     <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30" /> </a>
     <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="30" />
     </a>
     <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="70" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="70" height="30" />
     </a>
 </p>
 
