@@ -1,16 +1,16 @@
 <h1 align="center">Prashant Barahi</h1>
 <p align="center">
     <strong><span>@realpacific</span></strong><br/>
-    <span>Nepal</span>
+    <span>Nepal </span>
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/prashant-barahi-b83438139" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  align="center" alt="linkedin" height="30" width="30" ></img>
-    </a>
-    <a href="https://prashantbarahi.com.np" target="_blank">
-        <img src="logo.ico"  align="center" alt="website" height="30" width="30" />
-    </a>
+<a href="https://www.linkedin.com/in/prashant-barahi-b83438139" target="_blank">
+<img alt="" src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logoColor=green" style="vertical-align:center" />
+</a>
+<a href="https://prashantbarahi.com.np" target="_blank">
+<img alt="" src="https://img.shields.io/badge/Website-00c853?&style=for-the-badge" style="vertical-align:center" />
+</a>
 
 </p>
 
@@ -43,7 +43,7 @@
 
 <p align="center">
     <strong>:pen: I write at:</strong>
-    <a href="https://prashantbarahi.com.np">prashantbarahi.com.np</a> |
+    <a href="https://prashantbarahi.com.np/blogs">prashantbarahi.com.np</a> |
     <a href="https://www.raywenderlich.com/u/realpac">raywenderlich.com</a> |
     <a href="https://medium.com/@prashantbarahi">Medium</a>
 </p>
