@@ -1,7 +1,7 @@
 <h1 align="center">Prashant Barahi</h1>
 <p align="center">
     <strong><span>@realpacific</span></strong><br/>
-    <span>Nepal</span>
+    <strong><span>Nepal</span></strong>
 </p>
 
 
@@ -10,15 +10,15 @@
 <img alt="" src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logoColor=white" style="vertical-align:center" />
 </a>
 <a href="https://prashantbarahi.com.np" target="_blank">
-<img alt="" src="https://img.shields.io/badge/Website-00c853?&style=for-the-badge" style="vertical-align:center" />
+<img alt="" src="https://img.shields.io/badge/Website-fff?&style=for-the-badge" style="vertical-align:center" />
 </a>
 </p>
 
-
+<h2></h2>
 
 <h4>A <em>Highly</em> Inexhaustive List of Things I Have Worked With</h4>
 
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=White)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
@@ -34,13 +34,16 @@
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Spring Boot](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=spring&logoColor=6DB33F)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-000?style=for-the-badge&logo=ruby-on-rails&logoColor=CC342D)
+
 
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes&logoColor=326CE5)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=Terraform&logoColor=7B42BC)
+![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-000?style=for-the-badge)
 
-<br/>
+<h2></h2>
 
 <p align="center">
     <strong>:pen: I write at:</strong>
