@@ -16,83 +16,30 @@
 
 <h4 align="center">A <i>Highly</i> Inexhaustive List of Things I Have Worked With</h4>
 
-<p align="center">
-    <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="30" height="30" /> </a>
-    <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="30" height="30" /> </a>
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30"
-            height="30" /> </a>
-    <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="30" height="30" /> </a>
-    <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="30" height="30" /> </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="30" height="30" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="30" height="30" />
-    </a>
-</p>
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=yellow)
+![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go)
+![Ruby](https://img.shields.io/badge/-Ruby-000?style=for-the-badge&logo=ruby&logoColor=red)
+![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart&)
 
-<p align="center">
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="70"
-            height="30" /></a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
-            alt="nodejs" width="70" height="30" /> </a>
-</p>
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular&logoColor=red)
+![Android](https://img.shields.io/badge/-Android-000?style=for-the-badge&logo=android&logoColor=green)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter&logoColor=blue)
 
-<p align="center">
-    <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="30" height="30" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30"
-            height="30" /></a>
-    <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="30" height="30" /> </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="70"
-            height="30" /></a>
-</p>
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Spring Boot](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=spring&logoColor=green)
 
-<p align="center">
-    <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="30" height="30" /> </a>
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30"
-            height="30" /></a>
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30"
-            height="30" /> </a>
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30" /> </a>
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="70" height="30" />
-    </a>
-    <a href="#" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="70" height="30" />
-    </a>
-</p>
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=blue)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes&logoColor=blue)
+![Terraform](https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=Terraform&logoColor=orange)
 
 
-<br/>
+
 
 <p align="center">
     <strong>:pen: I write at:</strong>
